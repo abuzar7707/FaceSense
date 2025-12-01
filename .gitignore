@@ -1,0 +1,41 @@
+# Byte‑compiled / generated Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment / env folders (if you ever use one)
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm / JetBrains IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log or temporary files
+*.log
+*.tmp
+
+# Python environment config or secret files
+*.env
+
+# (Optional) Ignore large model files
+# Uncomment if you want to avoid uploading large ONNX or model files
+# *.onnx
+# *.h5
+# *.pt
+# /models/
+
+# Other caches / build folders
+.mypy_cache/
+__pycache__/
